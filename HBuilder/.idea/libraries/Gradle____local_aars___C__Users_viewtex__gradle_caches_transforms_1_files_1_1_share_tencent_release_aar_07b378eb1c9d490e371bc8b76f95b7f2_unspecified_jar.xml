@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-tencent-release.aar\07b378eb1c9d490e371bc8b76f95b7f2:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/07b378eb1c9d490e371bc8b76f95b7f2/jars/libs/tx_weibo_sdk.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/07b378eb1c9d490e371bc8b76f95b7f2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/07b378eb1c9d490e371bc8b76f95b7f2/jars/libs/tx_weibo_sdk_component.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/07b378eb1c9d490e371bc8b76f95b7f2/jars/libs/tx_weibo_sdk-httpclient-3.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/07b378eb1c9d490e371bc8b76f95b7f2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
